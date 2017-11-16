@@ -13,6 +13,13 @@
           <script>aircraft.livery.dialog.toggle()</script>
         </binding>
       </item>
+      <item>
+        <label>Extend Refuelling Drogues</label>
+        <binding>
+          <command>nasal</command>
+          <script>drogue.toggle_refuelling_drogues()</script>
+        </binding>
+      </item>
     </menu>
   </default>
 

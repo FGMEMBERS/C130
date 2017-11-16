@@ -35,6 +35,7 @@
         <float n="11" alias="/engines/engine[1]/n2"/>
         <float n="12" alias="/engines/engine[2]/n2"/>
         <float n="13" alias="/engines/engine[3]/n2"/>
+        <float n="14" alias="/controls/refuelling/refuelling-drogues-pos-norm"/>
         <!-- For Bombable -->
         <int type="int" n="10" alias="controls/armament/trigger">0</int>
         <string n="9" type="string"/>
